@@ -17,7 +17,7 @@ _______
 
 After installing mezzanine
 
-- ``pip install mezzaninetheme-moderna``
+- ``pip install mezzanine-theme-moderna``
 - Add ``"moderna"`` on your ``settings.py``
 
 .. code-block:: python
