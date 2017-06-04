@@ -1,0 +1,3 @@
+include LICENSE
+graft moderna/static
+graft moderna/templates
