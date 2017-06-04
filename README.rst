@@ -21,9 +21,11 @@ After installing mezzanine
 - Add ``"moderna"`` on your ``settings.py``
 
 .. code-block:: python
+
   INSTALLED_APPS = (
       ...
       "django.contrib.staticfiles",
       "moderna",
       ...
   )
+
