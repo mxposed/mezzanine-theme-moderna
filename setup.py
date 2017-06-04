@@ -14,7 +14,7 @@ def package_files(directory):
 
 setup(
     name='mezzanine-theme-moderna',
-    version='0.1',
+    version='0.2',
     url='https://github.com/mxposed/mezzanine-theme-moderna',
     description='Mezzanine CMS theme: Moderna',
     long_description=README,
@@ -23,5 +23,5 @@ setup(
     license='MIT',
     packages=['moderna'],
     package_data=dict(moderna=package_files('moderna/static') + package_files('moderna/templates')),
-    download_url='https://github.com/mxposed/mezzanine-theme-moderna/archive/v0.1.tar.gz',
+    download_url='https://github.com/mxposed/mezzanine-theme-moderna/archive/v0.2.tar.gz',
 )
