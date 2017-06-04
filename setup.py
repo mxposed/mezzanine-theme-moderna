@@ -15,5 +15,5 @@ setup(
     author_email='a4blank@yahoo.com',
     license='MIT',
     packages=['moderna'],
-    download_url='https://github.com/mxposed/mezzanine-theme-moderna/archive/0.1.tar.gz',
+    download_url='https://github.com/mxposed/mezzanine-theme-moderna/archive/v0.1.tar.gz',
 )
